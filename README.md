@@ -22,8 +22,8 @@ Download the Gerber files in the release section of this repository
 (I will also deliver the assembled PCB with all the components in place at an aditonal cost).
 
 
-![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/tree/main/designs/pcb_front.png)
-![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/tree/main/designs/pcb_back.png)
+![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/pcb_back.png)
 
 ________________________________________________________________________________________________________________
 
