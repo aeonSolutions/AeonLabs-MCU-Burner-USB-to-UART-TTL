@@ -30,6 +30,14 @@ ________________________________________________________________________________
 
 
 #### PCB Parts list:
+- DC2DC converter HX4002B x2 : https://s.click.aliexpress.com/e/_Ak7IPx
+- Capacitor 100nF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
+- Capacitor 2.2uF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
+- LED SMD 1206 : https://s.click.aliexpress.com/e/_A9THIl
+- Resistor SMD 1206 330R : https://s.click.aliexpress.com/e/_A7OXrR
+- Programmer Clip : https://s.click.aliexpress.com/e/_A7s5EN
+- 6 core wire : https://s.click.aliexpress.com/e/_Atht2d
+- Micro USB PCB socket : https://s.click.aliexpress.com/e/_A123KH 
 
 
 ______________________________________________________________________________________________________________________________
