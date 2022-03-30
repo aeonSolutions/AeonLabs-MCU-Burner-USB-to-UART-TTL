@@ -5,7 +5,7 @@ Features Voltage selection : 3V3 250mA/500mA or 5V0 500mA and automatic reset an
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_MCU_Burner_USB_to_UART_TTL.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/total?style=for-the-badge)
 
-## Versions
+## Revisions
 - revision 1.2
   - Voltage selection : 3V3 250mA/500mA or 5V0 500mA 
 - revision 1.1
@@ -20,7 +20,7 @@ Or,
 
 Download the Gerber files in the release section of this repository
 
-## Order one Fully assembled
+## Fully assembled PCB
 ### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
