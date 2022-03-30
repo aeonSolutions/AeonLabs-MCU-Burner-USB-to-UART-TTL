@@ -13,13 +13,14 @@ Features Voltage selection : 3V3 250mA/500mA or 5V0 500mA and automatic reset an
  
 
 
-## Download options:
+## Download options
 Download this repository for the KiCad Files
 
 Or,
 
 Download the Gerber files in the release section of this repository
 
+## Order one Fully assembled
 ### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
@@ -31,7 +32,7 @@ ________________________________________________________________________________
 
 
 
-#### PCB Parts list:
+## PCB Parts list
 - DC2DC converter HX4002B x2 : https://s.click.aliexpress.com/e/_Ak7IPx
 - Capacitor 100nF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
 - Capacitor 2.2uF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
