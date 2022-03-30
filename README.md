@@ -5,7 +5,7 @@ This is the KiCad files for the PCB to do firmware dowmload on any AeonLabs PCB 
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/total?style=for-the-badge)
 
 ## Versions
-- revision 1.0
+- revision 1.1
   - MCU firmware downloader with automatic reset and automatic boot. 
  
 
@@ -19,8 +19,8 @@ Or,
 Download the Gerber files in the release section of this repository
 
 ### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
-(I will also deliver the assembled PCB with all the components in place at an aditonal cost).
-
+(I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
+#### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
 ![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/pcb_front.png)
 ![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/pcb_back.png)
