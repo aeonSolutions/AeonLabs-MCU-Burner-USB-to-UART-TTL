@@ -1,5 +1,5 @@
 # AeonLabs MCU Burner USB to UART TTL
-This repo contains the KiCad files for the USB to UART TTL PCB. This PCB can do firmware dowmload on any AeonLabs PCB designs or any other.
+This repo contains the KiCad files for the USB to UART TTL PCB. This PCB can do firmware dowmload on any AeonLabs PCB designs or any other PCB running at 3.0V or 5.0V.
 Features Voltage selection : 3V3 250mA/500mA or 5V0 500mA and automatic reset and automatic boot.
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_MCU_Burner_USB_to_UART_TTL.svg)
