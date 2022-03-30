@@ -21,7 +21,7 @@ Or,
 Download the Gerber files in the release section of this repository
 
 ## Fully assembled PCB
-### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
+### alternatively, and if you do not want to build a PCB by yourself and like to buy one, mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
