@@ -14,7 +14,7 @@ Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset 
 
 
 ## Download options
-Download this repository for the KiCad Files
+Download this repository if you need the KiCad Files
 
 Or,
 
