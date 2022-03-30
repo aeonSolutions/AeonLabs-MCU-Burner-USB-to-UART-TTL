@@ -5,6 +5,8 @@ This is the KiCad files for the PCB to do firmware dowmload on any AeonLabs PCB 
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/total?style=for-the-badge)
 
 ## Versions
+- revision 1.2
+  - Voltage selection : 3V3 or 5V0 
 - revision 1.1
   - MCU firmware downloader with automatic reset and automatic boot. 
  
