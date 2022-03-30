@@ -1,5 +1,5 @@
 # AeonLabs MCU Burner USB to UART TTL
-This is the KiCad files for the PCB to do firmware dowmload on any AeonLabs PCB designs.
+This repo contains the KiCad files for the PCB to do firmware dowmload on any AeonLabs PCB designs.
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_MCU_Burner_USB_to_UART_TTL.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/total?style=for-the-badge)
