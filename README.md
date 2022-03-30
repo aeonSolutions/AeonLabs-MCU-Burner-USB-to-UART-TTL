@@ -6,7 +6,7 @@ This is the KiCad files for the PCB to do firmware dowmload on any AeonLabs PCB 
 
 ## Versions
 - revision 1.2
-  - Voltage selection : 3V3 500mA or 5V0 500mA 
+  - Voltage selection : 3V3 250mA/500mA or 5V0 500mA 
 - revision 1.1
   - MCU firmware downloader with automatic reset and automatic boot. 
  
