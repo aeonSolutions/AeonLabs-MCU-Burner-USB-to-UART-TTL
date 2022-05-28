@@ -1,24 +1,37 @@
 # AeonLabs MCU Burner USB to UART TTL
-This is the KiCad files for the PCB to do firmware dowmload on any AeonLabs PCB designs.
+This repo contains the KiCad files for the micro-USB to UART TTL PCB. This PCB can do firmware download on any AeonLabs PCB designs or any other PCB running at 3.0V or 5.0V.
+Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset and automatic boot. It can fit an enclosure with dimensions of 35x35x4 mm
+
+
+*Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_MCU_Burner_USB_to_UART_TTL.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/total?style=for-the-badge)
 
-## Versions
+## Revisions
+- revision 1.2
+  - Voltage selection : 3.0V 250mA/500mA or 5.0V 500mA 
 - revision 1.1
   - MCU firmware downloader with automatic reset and automatic boot. 
  
 
 
-You have 2 options:
-
-Download this repository for the KiCad Files
+## Download options
+Download this repository if you need the KiCad Files
 
 Or,
 
 Download the Gerber files in the release section of this repository
 
-### alternatively if you do not want to build a PCB by yourself, and like to buy one mail me at mtpsilva@gmail.com. The price will be around 20eur plus postage fees.
+## Join the WhatsApp Group
+If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
+[LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+
+## Fully assembled PCB
+### alternatively, and if you do not want to build a PCB by yourself, you can buy here:
+[Tindie.com](https://www.tindie.com/products/aeonlabs/mcu-firmware-burner-33v-50v-usb-to-uart-ttl/)
+
+The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
@@ -29,7 +42,7 @@ ________________________________________________________________________________
 
 
 
-#### PCB Parts list:
+## PCB Parts list
 - DC2DC converter HX4002B x2 : https://s.click.aliexpress.com/e/_Ak7IPx
 - Capacitor 100nF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
 - Capacitor 2.2uF SMD 1206 : https://s.click.aliexpress.com/e/_AVdmzr
@@ -43,7 +56,12 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 ### License
-2022 Creative Commons license
+2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+### Own a copy of this work
+if you like to own a copy of this work, you can buy it as a NFT or Ethereum. Contact me for more details at mtpsilva@gmail.com
 
 =====================================================================================
 ### Share this PCB board files
