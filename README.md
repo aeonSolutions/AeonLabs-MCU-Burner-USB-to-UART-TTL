@@ -9,6 +9,8 @@ Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset 
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/total?style=for-the-badge)
 
 ## Revisions
+- revision 1.3
+  - copper track bug corrections  
 - revision 1.2
   - Voltage selection : 3.0V 250mA/500mA or 5.0V 500mA 
 - revision 1.1
