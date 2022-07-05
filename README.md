@@ -8,6 +8,9 @@ Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_MCU_Burner_USB_to_UART_TTL.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/total?style=for-the-badge)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/working_green.png) Fully tested and working
+
 [![First Firmware download of AeonLabs's USB to UART TTL Burner](https://res.cloudinary.com/marcomontalbano/image/upload/v1653811888/video_to_markdown/images/youtube--EkAStzBm8CE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=EkAStzBm8CE "First Firmware download of AeonLabs's USB to UART TTL Burner")
 
 ## Revisions
