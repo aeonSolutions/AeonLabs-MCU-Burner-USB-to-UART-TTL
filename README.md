@@ -8,6 +8,11 @@ Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset 
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs_MCU_Burner_USB_to_UART_TTL.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/total?style=for-the-badge)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/working_green.png) Fully tested and working
+
+[![First Firmware download of AeonLabs's USB to UART TTL Burner](https://res.cloudinary.com/marcomontalbano/image/upload/v1653811888/video_to_markdown/images/youtube--EkAStzBm8CE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=EkAStzBm8CE "First Firmware download of AeonLabs's USB to UART TTL Burner")
+
 ## Revisions
 - revision 1.3
   - copper track bug corrections  
@@ -19,19 +24,20 @@ Features voltage selection : 3.0V 250mA/500mA or 5.0V 500mA and automatic reset 
 
 
 ## Download options
-Download this repository if you need the KiCad Files
+Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
 
-Or,
+## Liked it ? Get a Free PCB for yourself
+Send me your Device or hardware and i will design a custom PCB for it. Free of charge. Contact-me on WhatsApp or email for more info. 
 
-Download the Gerber files in the release section of this repository
-
-## Join the WhatsApp Group
-If you like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
+## Q&A WhatsApp Group
+If you have any Questions or simply  like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week, join the WhatsApp Group
 [LDAD Lab & Prototyping](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)
+
+There are useful answers on stackExchage about this topic i recommed reading. One is [ESP-WROOM-32 layout USB-UART](https://electronics.stackexchange.com/questions/429812/esp-wroom-32-layout-usb-uart/601827#601827) and [ESP32 with FTDI programmer](https://electronics.stackexchange.com/questions/448187/esp32-with-ftdi-programmer/601761#601761)
 
 ## Fully assembled PCB
 ### alternatively, and if you do not want to build a PCB by yourself, you can buy here:
-[Tindie.com](https://www.tindie.com/products/aeonlabs/mcu-firmware-burner-33v-50v-usb-to-uart-ttl/)
+[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png)](https://www.tindie.com/stores/aeonlabs/)
 
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
@@ -41,6 +47,8 @@ The price will be around 30eur plus postage fees.
 ![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/pcb_front.png)
 ![](https://github.com/aeonSolutions/AeonLabs-MCU-Burner-USB-to-UART-TTL/blob/main/designs/pcb_back.png)
 
+________________________________________________________________________________________________________________
+## [Go back to main catalogue page](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
 ________________________________________________________________________________________________________________
 
 
